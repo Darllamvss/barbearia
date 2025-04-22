@@ -1,7 +1,6 @@
 export default () => (
    <>
-     <h1>Algum texto aqui</h1>
-     <p>Algum outro texto</p>
+     <h1>Pagina do Aluno</h1>
+     <p>0 aluno...</p>
    </>
-
 )
